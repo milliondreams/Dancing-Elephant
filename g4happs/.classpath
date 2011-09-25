@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="wordcount"/>
+	<classpathentry kind="src" path="wordcount-script"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="com.karmasphere.studio.common.eclipse.library.LibraryClasspathContainer/com.karmasphere.libs.hadoop.v20/com/karmasphere/libs/hadoop/v20/hadoop-library-0.20.xml"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
